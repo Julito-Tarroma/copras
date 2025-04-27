@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>6151920e-f0cc-4720-b9f8-0c27fb884476.jpg</filename>
+	<path>C:\Users\julit\OneDrive\Desktop\image\6151920e-f0cc-4720-b9f8-0c27fb884476.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>12-18%</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>138</ymin>
+			<xmax>824</xmax>
+			<ymax>1153</ymax>
+		</bndbox>
+	</object>
+</annotation>
